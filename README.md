@@ -1,5 +1,4 @@
-# portfolio-v3
-Third version of my portfolio website
+# Practice Webpack/React/Babel/Sass repo
 
 Creating using this series of tutorials:
 * https://www.robinwieruch.de/javascript-project-setup-tutorial
