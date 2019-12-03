@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.scss';
 
-const props = 'this is a fresh repo dawg';
+const props = 'This is my practice webpack repo';
 
 const App = () =>
   <div>{props}</div>;
